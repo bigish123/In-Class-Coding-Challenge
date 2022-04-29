@@ -16,12 +16,7 @@ console.log(arrowMyFunction(3, 5));
 //      return money + 100;
 // };
  
- const arrowAdd100 = money => money + 100
-
-console.log(arrowAdd100(45));
- 
-
-
+ const arrowAdd100 = money => money + 100; console.log(arrowAdd100(45));
 
 
 
