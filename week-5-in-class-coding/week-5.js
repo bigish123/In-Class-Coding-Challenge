@@ -29,9 +29,9 @@ console.log(arrowMyFunction(3, 5));
 const howMany = (word, letter) => word.split(letter).length - 1;
  
 
- console.log(howMany("This is a striiiiiiing", "i"));
+ console.log(howMany("This is a string", "i"));
 
-
+// returns 3 letters
 
 
 
